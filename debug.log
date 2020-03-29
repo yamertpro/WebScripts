@@ -1,0 +1,2 @@
+[0328/162132.051:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0328/162132.053:ERROR:exception_snapshot_win.cc(98)] thread ID 8620 not found in process
