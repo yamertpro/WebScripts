@@ -11,7 +11,7 @@ exports.config = {
     allscriptstimeout: 11000,
     // Spec patterns are relative to the current working directly when
     // protractor is called.
-    specs: ['spec.js'],
+    specs: ['frames.js','button.js'],
   
     // Options to be passed to Jasmine-node.
     jasmineNodeOpts: {
